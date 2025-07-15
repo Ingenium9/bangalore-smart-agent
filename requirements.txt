@@ -1,0 +1,6 @@
+openai
+langchain
+python-dotenv
+faiss-cpu
+PyPDF2
+requests
