@@ -1,6 +1,5 @@
-# 🧠 Bangalore Smart Agent – AI Agent Developer Assignment (Banza)
+# 🧠 Bangalore Smart Agent
 
-This is my submission for the **AI Agent Developer Intern** technical assignment at [Banza](https://www.banza.xyz/).  
 It’s an intelligent assistant that helps both **tourists** and **new residents** navigate Bangalore using a city guide PDF and real-time LLM responses.
 
 ---
